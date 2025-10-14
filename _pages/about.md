@@ -19,18 +19,23 @@ redirect_from:
 
 
 # 👨‍🎓 About Me
- &nbsp; &nbsp; I'm **Zhijian Li**, a senior undergraduate from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral research at the Key Laboratory of Target Cognition and Application Technology,  [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
+ &nbsp; &nbsp; I'm **Zhijian Li**, a graduate from [ShanDong University](https://www.wh.sdu.edu.cn/). And I will start my doctoral research at the Key Laboratory of Target Cognition and Application Technology,  [Aerospace Information Research Institute, Chinese Academy of Sciences(**AIRCAS**)](http://www.aircas.cn/) in September 2025.
 
- &nbsp; &nbsp;My main research interest includes **Computer Vision** and **Remote Sensing Image Interpreting**. And I am also very interested in Embedded System Development.
+ &nbsp; &nbsp;My main research interest includes **Computer Vision** and **Remote Sensing Image Interpreting**. 
 
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 通过学士学位论文答辩，获得"山东大学优秀本科毕设论文"称号
+
 - *2024.12*: &nbsp;🎉🎉 获得山东大学本科生最高荣誉"校长奖(综合)"
-- *2024.10*: &nbsp;🎉🎉 顺利通过学校答辩，获得本科生“詹天佑”奖学金
-- *2024.10*: &nbsp;🎉🎉 顺利通过学院答辩，连续三年蝉联本科生国家奖学金
+
 - *2024.09*: &nbsp;🎉🎉 推免至中国科学院空天信息创新研究院（AIRCAS）攻读博士学位
-- *2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院夏令营“优秀营员（高端芯片方向）”称号
+
+  <!--*2024.10*: &nbsp;🎉🎉 顺利通过学校答辩，获得本科生“詹天佑”奖学金-->
+
+  <!--*2024.10*: &nbsp;🎉🎉 顺利通过学院答辩，连续三年蝉联本科生国家奖学金-->
+
+  <!--*2024.07*: &nbsp;🎉🎉 获得北京大学软件与微电子学院夏令营“优秀营员（高端芯片方向）”称号 -->
 
 
 # 🏅 Honors and Awards
@@ -44,22 +49,26 @@ redirect_from:
 - waiting for hard working🏃‍♂️ ......
 
 # 🏆 Competition Projects
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Undergraduate Smart Car Competition</div><img src='images/5G_Project .png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-**5G Outdoor Autonomous Vehicle With Multi-sensor Fusion(Undergraduate Project)**
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The 18th Undergraduate Smart Car Competition</div><img src='images/5G_Project .png' alt="sym" width="100%"></div></div> -->
+
+<!-- <div class='paper-box-text' markdown="1">
+**5G Outdoor Autonomous Vehicle With Multi-sensor Fusion(Undergraduate Project)**-->
+
+<!--**Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu-->
+
+<!-- **Contents**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 
 
-**Zhijian Li**, Zhang Yu, Tianyu Zhou, Yanmao He, Yuesheng Liu
 
-**Contents**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!--GNSS/INS Combination Positioning based on EKF.-->
 
-- GNSS/INS Combination Positioning based on EKF.
-- Visual Navigation based on CV
-- Stanley Path Tracking and Fuzzy PID Control
-- Sound Source Location based on TDOA
-- Drive brushless DC electric Motor(BLDC)
-</div>
-</div>
+<!--Visual Navigation based on CV-->
+
+<!--Stanley Path Tracking and Fuzzy PID Control-->
+
+<!--Sound Source Location based on TDOA-->
+
+<!--Drive brushless DC electric Motor(BLDC)-->
 
 
 
