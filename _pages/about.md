@@ -38,18 +38,7 @@ Hi there! I'm **Min Hua (华敏)**, a **Ph.D. candidate in Engineering** at the 
 If you are interested in academic collaboration or discussion, please feel free to contact me huam12140 [AT]  gmail.com.
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Invited as a reviewer for [TMLR](https://jmlr.org/tmlr/).
-- *2025.10*: &nbsp;🎉🎉 Invited as a reviewer for ICLR 2026, CVPR 2026, [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
-- *2025.09*: &nbsp;🎉🎉 Invited as a reviewer for [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition) and [IEEE Trans. on Reliability](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=24).
-- *2025.08*: &nbsp;🎉🎉 I will be starting my CS Ph.D. in [BDSC Lab](https://bdsc-uic.github.io/index.html) at the University of Illinois Chicago, under the supervision of Prof. [Philip S. Yu](https://scholar.google.com/citations?user=D0lL1r0AAAAJ).
-- *2025.04*: &nbsp;🎉🎉 Give a talk at [Xtra Computing Group](https://www.xtra.science/) of Prof. [Bingsheng He](https://www.comp.nus.edu.sg/~hebs/) at School of Computing, NUS.
-- *2025.03*: &nbsp;🎉🎉 I've been awarded the Outstanding Graduate in Zhejiang Province and Outstanding Graduate at Zhejiang University.
-- *2025.02*: &nbsp;🎉🎉 [Invisible Backdoor Attack in Self-supervised Learning](https://arxiv.org/abs/2405.14672) (First author) is accepted by CVPR 2025.
-- *2025.01*: &nbsp;🎉🎉 [Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents](https://arxiv.org/abs/2410.02644) (First author) is accepted by ICLR 2025.
-- *2025.01*: &nbsp;🎉🎉 [Class Incremental Fault Diagnosis under Limited Fault Data via Supervised Contrastive Knowledge Distillation](https://arxiv.org/pdf/2501.09525) (First author) is accepted by IEEE Transactions on Industrial Informatics.
-- *2024.11*: &nbsp;🎉🎉 I've been awarded the National Scholarship for Graduate Students at Zhejiang University.
-- *2024.04*: &nbsp;🎉🎉 [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599) (Co-first author) is accepted by IEEE Transactions on Industrial Informatics.
-- *2023.11*: &nbsp;🎉🎉 I've been awarded the National Scholarship for Graduate Students at Zhejiang University.
+
 
   
 # 📝 Publications
@@ -67,7 +56,9 @@ If you are interested in academic collaboration or discussion, please feel free 
 - [A Hierarchical Energy Efficiency Optimization Control Strategy for Distributed Electric Vehicles](https://drive.google.com/file/d/1pe1_ZCaqluUtzSRuLzO1osC-xRSK-1Ox/view), **M. Hua*** et al., *Proc. IMechE, Part D: Journal of Automobile Engineering*, 233(3):605–621, 2019.  
 - [Research on Synchronous Control Strategy of Steer-by-Wire System with Dual Steering Actuator Motors](https://www.inderscienceonline.com/doi/epdf/10.1504/IJVAS.2020.104818), **M. Hua*** et al., *International Journal of Vehicle Autonomous Systems*, 15(1):50–76, 2020.  
 
-# 🧩 Journal Reviewer
+📘 *For the complete publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=0t66bQYAAAAJ&hl=zh-CN).*
+
+## 🧩 Journal Reviewer
 *2021 – Present*  
 Reviewer for the following international journals and conferences:  
 
@@ -82,9 +73,6 @@ Reviewer for the following international journals and conferences:
 - **IEEE Transactions on Services Computing (IEEE Trans. Serv. Comput.)**  
 - **SAE International Journals**  
 - **IEEE ITSC 2021, 2022** (Conference reviewer)
-
-📘 *For the complete publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=0t66bQYAAAAJ&hl=zh-CN).*
-
 
 # 🎖 Honors and Awards
 - 🥇 *Best Paper Award*, IEEE ITSC 2024  
