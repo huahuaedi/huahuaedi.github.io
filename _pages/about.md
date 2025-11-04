@@ -51,6 +51,49 @@ If you are interested in academic collaboration or discussion, please feel free 
 - *2024.04*: &nbsp;🎉🎉 [Generalized Out-of-distribution Fault Diagnosis (GOOFD) via Internal Contrastive Learning](https://ieeexplore.ieee.org/abstract/document/10510599) (Co-first author) is accepted by IEEE Transactions on Industrial Informatics.
 - *2023.11*: &nbsp;🎉🎉 I've been awarded the National Scholarship for Graduate Students at Zhejiang University.
 
+  
+# 📝 Publications
+
+- [Communication-Efficient MARL for Platoon Stability and Energy-Efficiency Co-Optimization in Cooperative Adaptive Cruise Control of CAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10777569), **Min Hua**, D. Chen, K. Jiang, F. Zhang, B. Wang, Q. Zhou, H. Xu, *IEEE Transactions on Vehicular Technology*, 74(4):6076–6087, 2025.  
+- [Energy Management of Multi-Mode Plug-in Hybrid Electric Vehicle Using Multi-Agent Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0306261923008905), **Min Hua**, C. Zhang, F. Zhang, Z. Li, X. Yu, H. Xu, Q. Zhou, *Applied Energy*, 348:121526, 2023.  
+- [Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016811), **Min Hua**, D. Chen, X. Qi, K. Jiang, Z.E. Liu, Q. Zhou, H. Xu, *IEEE Transactions on Automation Science and Engineering*, 22:16266–16286, 2025.  
+- [Efficient Energy Management of Plug-in Hybrid Electric Vehicles through Ensemble with In-target Minimization Q-learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11036253), **Min Hua** et al., *IEEE Transactions on Transportation Electrification*, Early Access, 2025.  
+- [High Precision Data-Mechanism-Driven Lateral Velocity Estimation Using Transfer Learning in Distributed Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11123912), G. Chen, **M. Hua***, *IEEE Transactions on Instrumentation & Measurement*, 2025.  
+- [Lane Change Trajectory Prediction Considering Driving Style Uncertainty for Autonomous Vehicles](https://www.sciencedirect.com/science/article/pii/S0888327023007628?casa_token=OnpNC6568dMAAAAA:JbZ70DPIlGkiJ9mQ14u7UgrQMig9xlzuNzd6MnIfTixOcbXrh5iydEWTITDZU8Xt5hzXRtG7ZME), **M. Hua*** et al., *Mechanical Systems and Signal Processing*, 206:110854, 2024.  
+- [Optimal Energy Management of Plug-in Hybrid Vehicles Through Exploration-to-Exploitation Ratio Control in Ensemble Reinforcement Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472695), B. Shuai†, **M. Hua†**, Y. Li, S. Shuai, H. Xu, Q. Zhou, *IEEE Transactions on Intelligent Vehicles*, Early Access, 2024. (†Equal contribution)  
+- [A Systematic Survey of Control Techniques and Applications in Connected and Automated Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10225497), W. Liu†, **M. Hua†**, Z. Deng, Z. Meng, Y. Huang, C. Hu, X. Xia, *IEEE Internet of Things Journal*, 10(24):21892–21916, 2023. (†Equal contribution)  
+- [Multi-Level Decision Framework Collision Avoidance Algorithm in Emergency Scenarios](https://www.inderscienceonline.com/doi/epdf/10.1504/IJVD.2024.139186), **M. Hua***, G. Chen, X. Wang, *International Journal of Vehicle Design*, 95(3–4):155–185, 2024.  
+- [Comprehensive Chassis Control Strategy of FWIC-EV Based on Sliding Mode Control](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-its.2018.5089), **M. Hua*** et al., *IET Intelligent Transport Systems*, 13(4):703–713, 2019.  
+- [A Hierarchical Energy Efficiency Optimization Control Strategy for Distributed Electric Vehicles](https://drive.google.com/file/d/1pe1_ZCaqluUtzSRuLzO1osC-xRSK-1Ox/view), **M. Hua*** et al., *Proc. IMechE, Part D: Journal of Automobile Engineering*, 233(3):605–621, 2019.  
+- [Research on Synchronous Control Strategy of Steer-by-Wire System with Dual Steering Actuator Motors](https://www.inderscienceonline.com/doi/epdf/10.1504/IJVAS.2020.104818), **M. Hua*** et al., *International Journal of Vehicle Autonomous Systems*, 15(1):50–76, 2020.  
+
+# 🧩 Journal Reviewer
+*2021 – Present*  
+Reviewer for the following international journals and conferences:  
+
+- **IET Intelligent Transport Systems (IET Intell. Transp. Syst.)**  
+- **Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering (Proc. IMechE Part D: J. Automob. Eng.)**  
+- **International Journal of Powertrains (Int. J. Powertrains)**  
+- **eTransportation (eTransp.)**  
+- **IEEE Transactions on Intelligent Transportation Systems (IEEE Trans. Intell. Transp. Syst.)**  
+- **IEEE Transactions on Transportation Electrification (IEEE Trans. Transp. Electr.)**  
+- **IEEE Transactions on Intelligent Vehicles (IEEE Trans. Intell. Veh.)**  
+- **IEEE Transactions on Vehicular Technology (IEEE Trans. Veh. Technol.)**  
+- **IEEE Transactions on Services Computing (IEEE Trans. Serv. Comput.)**  
+- **SAE International Journals**  
+- **IEEE ITSC 2021, 2022** (Conference reviewer)
+
+📘 *For the complete publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=0t66bQYAAAAJ&hl=zh-CN).*
+
+
+# 🎖 Honors and Awards
+- 🥇 *Best Paper Award*, IEEE ITSC 2024  
+- 🥈 *Best Paper Award*, IEEE IV 2024 Workshop  
+- 🥈 *Silver Prize*, International “Internet+” Innovation Competition, 2021  
+- 🎓 *University of Birmingham Scholarship* (2021–2025)  
+- 🏅 *Outstanding Employee*, SAIC Motor Passenger Vehicle Co. (2019)
+
+
 # 📖 Educations
 - **University of Birmingham** | Jun. 2021 -- May. 2025 <br>
   Ph.D. in Engineering, United Kingdom <br>
@@ -72,40 +115,14 @@ If you are interested in academic collaboration or discussion, please feel free 
   Advisor: Prof. Miaohua Huang <br>
   Thesis: *Design of the Steer-by-Wire Control System for the Caravan*
 
-  
-# 📝 Publications
-
-- [Communication-Efficient MARL for Platoon Stability and Energy-Efficiency Co-Optimization in Cooperative Adaptive Cruise Control of CAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10777569), **Min Hua**, D. Chen, K. Jiang, F. Zhang, B. Wang, Q. Zhou, H. Xu, *IEEE Transactions on Vehicular Technology*, 74(4):6076–6087, 2025.  
-- [Energy Management of Multi-Mode Plug-in Hybrid Electric Vehicle Using Multi-Agent Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0306261923008905), **Min Hua**, C. Zhang, F. Zhang, Z. Li, X. Yu, H. Xu, Q. Zhou, *Applied Energy*, 348:121526, 2023.  
-- [Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016811), **Min Hua**, D. Chen, X. Qi, K. Jiang, Z.E. Liu, Q. Zhou, H. Xu, *IEEE Transactions on Automation Science and Engineering*, 22:16266–16286, 2025.  
-- [Efficient Energy Management of Plug-in Hybrid Electric Vehicles through Ensemble with In-target Minimization Q-learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11036253), **Min Hua** et al., *IEEE Transactions on Transportation Electrification*, Early Access, 2025.  
-- [High Precision Data-Mechanism-Driven Lateral Velocity Estimation Using Transfer Learning in Distributed Vehicles](https://ieeexplore.ieee.org/document/10899887), G. Chen, **M. Hua***, *IEEE Transactions on Instrumentation & Measurement*, 2025.  
-- [Lane Change Trajectory Prediction Considering Driving Style Uncertainty for Autonomous Vehicles](https://doi.org/10.1016/j.ymssp.2024.110854), **M. Hua*** et al., *Mechanical Systems and Signal Processing*, 206:110854, 2024.  
-- [Optimal Energy Management of Plug-in Hybrid Vehicles Through Exploration-to-Exploitation Ratio Control in Ensemble Reinforcement Learning](https://ieeexplore.ieee.org/document/10761122), B. Shuai†, **M. Hua†**, Y. Li, S. Shuai, H. Xu, Q. Zhou, *IEEE Transactions on Intelligent Vehicles*, Early Access, 2024. (†Equal contribution)  
-- [A Systematic Survey of Control Techniques and Applications in Connected and Automated Vehicles](https://ieeexplore.ieee.org/document/10167961), W. Liu†, **M. Hua†**, Z. Deng, Z. Meng, Y. Huang, C. Hu, X. Xia, *IEEE Internet of Things Journal*, 10(24):21892–21916, 2023. (†Equal contribution)  
-- [Multi-Level Decision Framework Collision Avoidance Algorithm in Emergency Scenarios](https://doi.org/10.1504/IJVD.2024.134857), **M. Hua***, G. Chen, X. Wang, *International Journal of Vehicle Design*, 95(3–4):155–185, 2024.  
-- [Comprehensive Chassis Control Strategy of FWIC-EV Based on Sliding Mode Control](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-its.2018.5244), **M. Hua*** et al., *IET Intelligent Transport Systems*, 13(4):703–713, 2019.  
-- [A Hierarchical Energy Efficiency Optimization Control Strategy for Distributed Electric Vehicles](https://journals.sagepub.com/doi/10.1177/0954407018765671), **M. Hua*** et al., *Proc. IMechE, Part D: Journal of Automobile Engineering*, 233(3):605–621, 2019.  
-- [Research on Synchronous Control Strategy of Steer-by-Wire System with Dual Steering Actuator Motors](https://www.inderscienceonline.com/doi/abs/10.1504/IJVAS.2020.10028006), **M. Hua*** et al., *International Journal of Vehicle Autonomous Systems*, 15(1):50–76, 2020.  
-
-
-📘 *For the complete publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=0t66bQYAAAAJ&hl=zh-CN).*
-
-
-# 🎖 Honors and Awards
-- 🥇 *Best Paper Award*, IEEE ITSC 2024  
-- 🥈 *Best Paper Award*, IEEE IV 2024 Workshop  
-- 🥈 *Silver Prize*, International “Internet+” Innovation Competition, 2021  
-- 🎓 *University of Birmingham Scholarship* (2021–2025)  
-- 🏅 *Outstanding Employee*, SAIC Motor Passenger Vehicle Co. (2019)
-- 
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.09*, Early Career Researcher (ECR) Award Talk at the **ABCP 2025 Annual Conference**, University of Surrey, Guildford, UK.  
+  *Session: Energy Management and AI for Powertrain Systems, Sep 12–13, 2025.*
+- *2025.11*, Speaker at **Global Connect of Overseas Chinese Automotive Engineers 2025**,  
+  *Technical Session 2: Automotive Industry Development and Globalization Outlook, Nov 2, 2025.*
+  
+# 💻 Professional & Internship Experience
+- *2021.01 – 2021.06*, **Baidu Technology Company – Apollo Division**, Shenzhen, China  
+- *2019.08 – 2020.09*, **SAIC Motor Passenger Vehicle Company**, Shanghai, China  
+- *2019.01 – 2019.05*, **Fabu.ai Co., Ltd.**, Hangzhou, China  
