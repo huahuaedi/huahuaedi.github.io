@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Min Hua"
+title                    : "Dr. Min Hua"
 description              : "Research Fellow "
 repository               : "huahuaedi/huahuaedi.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Min Hua"
+  name             : "Dr. Min Hua"
   avatar           : "images/Min_Hua.jpg"
-  bio              : #"Lorem ipsum College"
+  bio              : "Researcher exploring how AI can make vehicles think smarter and drive greener."
   location         : "Birmingham, UK"
   employer         :
   pubmed           : 
