@@ -38,8 +38,8 @@ Hi there! I'm **Min Hua (华敏)**, a **Ph.D. candidate in Engineering** at the 
 If you are interested in academic collaboration or discussion, please feel free to contact me huam12140 [AT]  gmail.com.
 
 # 🔥 News
-
-
+- *2025.11*: &nbsp;🎉🎉 Invited as a reviewer for [TMLR](https://jmlr.org/tmlr/).
+- *2025.7*: &nbsp;🎉🎉 I've been awarded PhD at the University of Birmingham.
   
 # 📝 Publications
 
