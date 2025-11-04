@@ -75,47 +75,18 @@ If you are interested in academic collaboration or discussion, please feel free 
   
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-VT 2025</div><img src='images/paper_tvt2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Communication-Efficient MARL for Platoon Stability and Energy-Efficiency Co-Optimization in Cooperative Adaptive Cruise Control of CAVs](https://ieeexplore.ieee.org/document/10536752)
-
-**Min Hua**, D. Chen, K. Jiang, F. Zhang, B. Wang, Q. Zhou, H. Xu  
-*IEEE Transactions on Vehicular Technology*, Vol. 74, No. 4, pp. 6076–6087, April 2025. (IF=7.1, JCR Q1)
-
-[**Project**](https://scholar.google.com/citations?user=0t66bQYAAAAJ) <strong><span class='show_paper_citations' data='0t66bQYAAAAJ'></span></strong>
-- Proposes a multi-agent reinforcement learning framework for platoon stability and energy-efficient coordination in connected automated vehicles.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy 2023</div><img src='images/paper_applied_energy2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Energy Management of Multi-Mode Plug-in Hybrid Electric Vehicle Using Multi-Agent Deep Reinforcement Learning](https://doi.org/10.1016/j.apenergy.2023.121526)
-
-**Min Hua**, C. Zhang, F. Zhang, Z. Li, X. Yu, H. Xu, Q. Zhou  
-*Applied Energy*, Vol. 348, 2023, 121526. (IF=11.0, JCR Q1)
-
-[**Project**](https://scholar.google.com/citations?user=0t66bQYAAAAJ)  
-- Introduces a novel multi-agent DRL-based strategy for optimizing hybrid vehicle energy management under dynamic conditions.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE 2025</div><img src='images/paper_tase2025.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects](https://ieeexplore.ieee.org/document/10642157)
-
-**Min Hua**, D. Chen, X. Qi, K. Jiang, Z.E. Liu, Q. Zhou, H. Xu  
-*IEEE Transactions on Automation Science and Engineering*, Vol. 22, pp. 16266–16286, 2025. (IF=6.4, JCR Q1)
-
-- Comprehensive survey of MARL approaches in connected and automated vehicles, summarizing challenges and opportunities.
-</div>
-</div>
-
-- [Efficient Energy Management of Plug-in Hybrid Electric Vehicles through Ensemble with In-target Minimization Q-learning](https://ieeexplore.ieee.org/document/10837654), **Min Hua** et al., *IEEE Trans. Transportation Electrification*, early access, 2025.  
-- [High Precision Data-Mechanism-Driven Lateral Velocity Estimation Using Transfer Learning in Distributed Vehicles](https://ieeexplore.ieee.org/document/10899887), G. Chen, **M. Hua***, *IEEE Trans. Instrumentation & Measurement*, 2025.  
-- [Lane Change Trajectory Prediction Considering Driving Style Uncertainty for Autonomous Vehicles](https://doi.org/10.1016/j.ymssp.2024.110854), **M. Hua*** et al., *Mechanical Systems and Signal Processing*, 2024.  
+- [Communication-Efficient MARL for Platoon Stability and Energy-Efficiency Co-Optimization in Cooperative Adaptive Cruise Control of CAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10777569), **Min Hua**, D. Chen, K. Jiang, F. Zhang, B. Wang, Q. Zhou, H. Xu, *IEEE Transactions on Vehicular Technology*, 74(4):6076–6087, 2025.  
+- [Energy Management of Multi-Mode Plug-in Hybrid Electric Vehicle Using Multi-Agent Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0306261923008905), **Min Hua**, C. Zhang, F. Zhang, Z. Li, X. Yu, H. Xu, Q. Zhou, *Applied Energy*, 348:121526, 2023.  
+- [Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016811), **Min Hua**, D. Chen, X. Qi, K. Jiang, Z.E. Liu, Q. Zhou, H. Xu, *IEEE Transactions on Automation Science and Engineering*, 22:16266–16286, 2025.  
+- [Efficient Energy Management of Plug-in Hybrid Electric Vehicles through Ensemble with In-target Minimization Q-learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11036253), **Min Hua** et al., *IEEE Transactions on Transportation Electrification*, Early Access, 2025.  
+- [High Precision Data-Mechanism-Driven Lateral Velocity Estimation Using Transfer Learning in Distributed Vehicles](https://ieeexplore.ieee.org/document/10899887), G. Chen, **M. Hua***, *IEEE Transactions on Instrumentation & Measurement*, 2025.  
+- [Lane Change Trajectory Prediction Considering Driving Style Uncertainty for Autonomous Vehicles](https://doi.org/10.1016/j.ymssp.2024.110854), **M. Hua*** et al., *Mechanical Systems and Signal Processing*, 206:110854, 2024.  
+- [Optimal Energy Management of Plug-in Hybrid Vehicles Through Exploration-to-Exploitation Ratio Control in Ensemble Reinforcement Learning](https://ieeexplore.ieee.org/document/10761122), B. Shuai†, **M. Hua†**, Y. Li, S. Shuai, H. Xu, Q. Zhou, *IEEE Transactions on Intelligent Vehicles*, Early Access, 2024. (†Equal contribution)  
+- [A Systematic Survey of Control Techniques and Applications in Connected and Automated Vehicles](https://ieeexplore.ieee.org/document/10167961), W. Liu†, **M. Hua†**, Z. Deng, Z. Meng, Y. Huang, C. Hu, X. Xia, *IEEE Internet of Things Journal*, 10(24):21892–21916, 2023. (†Equal contribution)  
+- [Multi-Level Decision Framework Collision Avoidance Algorithm in Emergency Scenarios](https://doi.org/10.1504/IJVD.2024.134857), **M. Hua***, G. Chen, X. Wang, *International Journal of Vehicle Design*, 95(3–4):155–185, 2024.  
+- [Comprehensive Chassis Control Strategy of FWIC-EV Based on Sliding Mode Control](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-its.2018.5244), **M. Hua*** et al., *IET Intelligent Transport Systems*, 13(4):703–713, 2019.  
+- [A Hierarchical Energy Efficiency Optimization Control Strategy for Distributed Electric Vehicles](https://journals.sagepub.com/doi/10.1177/0954407018765671), **M. Hua*** et al., *Proc. IMechE, Part D: Journal of Automobile Engineering*, 233(3):605–621, 2019.  
+- [Research on Synchronous Control Strategy of Steer-by-Wire System with Dual Steering Actuator Motors](https://www.inderscienceonline.com/doi/abs/10.1504/IJVAS.2020.10028006), **M. Hua*** et al., *International Journal of Vehicle Autonomous Systems*, 15(1):50–76, 2020.  
 
 
 📘 *For the complete publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=0t66bQYAAAAJ&hl=zh-CN).*
