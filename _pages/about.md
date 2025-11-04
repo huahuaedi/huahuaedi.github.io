@@ -110,7 +110,7 @@ Reviewer for the following international journals and conferences:
 - *2025.11*, Speaker at **Global Connect of Overseas Chinese Automotive Engineers 2025**,  
   *Technical Session 2: Automotive Industry Development and Globalization Outlook, Nov 2, 2025.*
   
-# 💻 Professional & Internship Experience
+# 💻 Working Experience
 - *2021.01 – 2021.06*, **Baidu Technology Company – Apollo Division**, Shenzhen, China  
 - *2019.08 – 2020.09*, **SAIC Motor Passenger Vehicle Company**, Shanghai, China  
 - *2019.01 – 2019.05*, **Fabu.ai Co., Ltd.**, Hangzhou, China  
