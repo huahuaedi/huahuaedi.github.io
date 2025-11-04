@@ -73,21 +73,53 @@ If you are interested in academic collaboration or discussion, please feel free 
   Thesis: *Design of the Steer-by-Wire Control System for the Caravan*
 
   
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-VT 2025</div><img src='images/paper_tvt2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Communication-Efficient MARL for Platoon Stability and Energy-Efficiency Co-Optimization in Cooperative Adaptive Cruise Control of CAVs](https://ieeexplore.ieee.org/document/10536752)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Min Hua**, D. Chen, K. Jiang, F. Zhang, B. Wang, Q. Zhou, H. Xu  
+*IEEE Transactions on Vehicular Technology*, Vol. 74, No. 4, pp. 6076–6087, April 2025. (IF=7.1, JCR Q1)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://scholar.google.com/citations?user=0t66bQYAAAAJ) <strong><span class='show_paper_citations' data='0t66bQYAAAAJ'></span></strong>
+- Proposes a multi-agent reinforcement learning framework for platoon stability and energy-efficient coordination in connected automated vehicles.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Applied Energy 2023</div><img src='images/paper_applied_energy2023.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Energy Management of Multi-Mode Plug-in Hybrid Electric Vehicle Using Multi-Agent Deep Reinforcement Learning](https://doi.org/10.1016/j.apenergy.2023.121526)
+
+**Min Hua**, C. Zhang, F. Zhang, Z. Li, X. Yu, H. Xu, Q. Zhou  
+*Applied Energy*, Vol. 348, 2023, 121526. (IF=11.0, JCR Q1)
+
+[**Project**](https://scholar.google.com/citations?user=0t66bQYAAAAJ)  
+- Introduces a novel multi-agent DRL-based strategy for optimizing hybrid vehicle energy management under dynamic conditions.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-ASE 2025</div><img src='images/paper_tase2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects](https://ieeexplore.ieee.org/document/10642157)
+
+**Min Hua**, D. Chen, X. Qi, K. Jiang, Z.E. Liu, Q. Zhou, H. Xu  
+*IEEE Transactions on Automation Science and Engineering*, Vol. 22, pp. 16266–16286, 2025. (IF=6.4, JCR Q1)
+
+- Comprehensive survey of MARL approaches in connected and automated vehicles, summarizing challenges and opportunities.
+</div>
+</div>
+
+- [Efficient Energy Management of Plug-in Hybrid Electric Vehicles through Ensemble with In-target Minimization Q-learning](https://ieeexplore.ieee.org/document/10837654), **Min Hua** et al., *IEEE Trans. Transportation Electrification*, early access, 2025.  
+- [High Precision Data-Mechanism-Driven Lateral Velocity Estimation Using Transfer Learning in Distributed Vehicles](https://ieeexplore.ieee.org/document/10899887), G. Chen, **M. Hua***, *IEEE Trans. Instrumentation & Measurement*, 2025.  
+- [Lane Change Trajectory Prediction Considering Driving Style Uncertainty for Autonomous Vehicles](https://doi.org/10.1016/j.ymssp.2024.110854), **M. Hua*** et al., *Mechanical Systems and Signal Processing*, 2024.  
+
+
+📘 *For the complete publication list, please visit my [Google Scholar](https://scholar.google.com/citations?user=0t66bQYAAAAJ&hl=zh-CN).*
+
 
 # 🎖 Honors and Awards
 - 🥇 *Best Paper Award*, IEEE ITSC 2024  
