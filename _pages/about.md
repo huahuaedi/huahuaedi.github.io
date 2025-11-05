@@ -107,11 +107,11 @@ Reviewer for the following international journals and conferences:
 # 💬 Invited Talks
 - *2025.09*, Early Career Researcher (ECR) Award Talk at the [**ABCP 2025 Annual Conference**](https://abcp.org.uk/abcp2025-climate-change-energy-sustainability/), University of Surrey, Guildford, UK.  
   *Session: Energy Management and AI for Powertrain Systems, Sep 12–13, 2025.*
-- *2025.11*, Speaker at **Global Connect of Overseas Chinese Automotive Engineers 2025**,
+- *2025.11*, Speaker at [**Global Connect of Overseas Chinese Automotive Engineers 2025**](https://www.metal.com/en/newscontent/103604252),
   *Technical Session 2: Automotive Industry Development and Globalization Outlook, Nov 2, 2025.*  
   📰 [Media coverage (China Federation of Industry and Commerce)](https://bm.cnfic.com.cn/sharing/share/articleDetail/410776194179653632/1?date=1762358900000)
   
 # 💻 Working Experience
-- *2021.01 – 2021.06*, **Baidu Technology Company – Apollo Division**, Shenzhen, China  
-- *2019.08 – 2020.09*, **SAIC Motor Passenger Vehicle Company**, Shanghai, China  
-- *2019.01 – 2019.05*, **Fabu.ai Co., Ltd.**, Hangzhou, China  
+- *Jan 2021 – Jun 2021* — **Algorithm Engineer**, *Baidu Technology Company – Apollo*, Shenzhen, China  
+- *Aug 2019 – Sep 2020* — **Design Engineer**, *SAIC Motor Passenger Vehicle Company*, Shanghai, China  
+- *Jan 2019 – May 2019* — **Algorithm Engineer Intern**, *Fabu.ai Co., Ltd.*, Hangzhou, China  
