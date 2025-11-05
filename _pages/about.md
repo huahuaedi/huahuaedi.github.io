@@ -20,7 +20,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm **Min Hua (华敏)**, a **Ph.D. candidate in Engineering** at the **University of Birmingham**, where I’m fortunate to be advised by **Prof. Hongming Xu (Fellow of SAE & IMechE)**.  I also hold an **MEng in Vehicle Engineering** from **Jilin University** and a **BEng from Wuhan University of Technology**.  Currently, I am pursuing an **MSc in Computer Science (OMSCS)** at the **Georgia Institute of Technology**.
+Hi there! I’m Dr. Min Hua, a Research Fellow at the University of Birmingham. My research focuses on AI-driven energy management, hybrid powertrain control, and intelligent vehicle systems, integrating reinforcement learning and generative AI to accelerate the transition toward sustainable and intelligent mobility.
 
 <!-- **Total Citations: <span id='total_cit'>77</span>** -->
 
