@@ -76,7 +76,7 @@ Reviewer for the following international journals and conferences:
 
 # 🎖 Honors and Awards
 - 🥇 *Best Paper Award*, IEEE ITSC 2024  
-- 🥈 *Best Paper Award*, IEEE IV 2024 Workshop  
+- 🥇 *Best Paper Award*, IEEE IV 2024 Workshop  
 - 🥈 *Silver Prize*, International “Internet+” Innovation Competition, 2021  
 - 🎓 *University of Birmingham Scholarship* (2021–2025)  
 - 🏅 *Outstanding Employee*, SAIC Motor Passenger Vehicle Co. (2019)
