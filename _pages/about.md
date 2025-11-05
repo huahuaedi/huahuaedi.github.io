@@ -112,6 +112,7 @@ Reviewer for the following international journals and conferences:
   📰 [Media coverage (China Federation of Industry and Commerce)](https://bm.cnfic.com.cn/sharing/share/articleDetail/410776194179653632/1?date=1762358900000)
   
 # 💻 Working Experience
-- *Jan 2021 – Jun 2021* — **Algorithm Engineer**, *Baidu Technology Company – Apollo*, Shenzhen, China  
-- *Aug 2019 – Sep 2020* — **Design Engineer**, *SAIC Motor Passenger Vehicle Company*, Shanghai, China  
+- *Jan 2021 – Jun 2021* — **Planning&Control Algorithm Engineer**, *Baidu Technology Company – Apollo*, Shenzhen, China
+- *Oct 2020 - Jan 2021* — **Research Associate**, *The Chinese University of Hong Kong*, Shenzhen, China
+- *Aug 2019 – Sep 2020* — **System Design Engineer**, *SAIC Motor Passenger Vehicle Company*, Shanghai, China  
 - *Jan 2019 – May 2019* — **Algorithm Engineer Intern**, *Fabu.ai Co., Ltd.*, Hangzhou, China  
