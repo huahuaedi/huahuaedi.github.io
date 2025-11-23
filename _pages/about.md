@@ -38,8 +38,17 @@ Hi there! I’m Dr. Min Hua, a Research Fellow at the University of Birmingham. 
 If you are interested in academic collaboration or discussion, please feel free to contact me huam12140 [AT]  gmail.com.
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 Invited as a reviewer for [TMLR](https://jmlr.org/tmlr/).
-- *2025.7*: &nbsp;🎉🎉 I've been awarded PhD at the University of Birmingham.
+
+- *2025.7*: 🎉🎉 I've been awarded a PhD at the University of Birmingham.
+- *2025.7*: 🎉🎉 I’ve been worked as a research fellow at the University of Birmingham.
+
+- *2025.11*: Submitted **SceDiT: Safety-Critical Scenario Generator based on Diffusion in Transformers** to *IEEE Transactions on Intelligent Transportation Systems (T-ITS)*.
+
+- *2025.11*: Submitted **BO-NRPPO: A Bayesian Optimization–Tuned PPO Framework for Semi-Active Suspension Control** to *Advanced Engineering Informatics*.
+
+- *2025.11*: Submitted **Cellpose-SAM: Transformer-Based Segmentation for Cellular Instability Analysis of Spherical Hydrogen–Air Premixed Flames** to *International Journal of Hydrogen Energy*.
+
+- *2025.11*: Submitted **Optimal Energy Management for PHEVs Using a Transformer Decoder-Only Architecture Guided by Dynamic Programming** to *Applied Energy*.
   
 # 📝 Publications
 
