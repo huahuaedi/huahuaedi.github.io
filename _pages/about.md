@@ -48,7 +48,7 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 - *2025.10*: Submitted **Optimal Energy Management for PHEVs Using a Transformer Decoder-Only Architecture Guided by Dynamic Programming** to *Applied Energy*.
 - *2025.11*: Submitted **BO-NRPPO: A Bayesian Optimization–Tuned PPO Framework for Semi-Active Suspension Control** to *Advanced Engineering Informatics*.
-
+- *2025.12 *: 🎉🎉 I’ve been awarded **Ratcliffe Prize** at the University of Birmingham.
   
 # 📝 Publications
 
