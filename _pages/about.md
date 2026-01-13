@@ -48,13 +48,13 @@ If you are interested in academic collaboration or discussion, please feel free 
 
 - *2025.10*: Submitted **Optimal Energy Management for PHEVs Using a Transformer Decoder-Only Architecture Guided by Dynamic Programming** to *Applied Energy*.
 - *2025.11*: Submitted **BO-NRPPO: A Bayesian Optimization–Tuned PPO Framework for Semi-Active Suspension Control** to *Advanced Engineering Informatics*.
-- *2025.12 *: 🎉🎉 I’ve been awarded **Ratcliffe Prize** at the University of Birmingham.
+- *2025.12*: 🎉🎉 I’ve been awarded **Ratcliffe Prize**(https://research.birmingham.ac.uk/en/prizes/ratcliffe-prize/) at the University of Birmingham.
   
 # 📝 Publications
 
 - [Communication-Efficient MARL for Platoon Stability and Energy-Efficiency Co-Optimization in Cooperative Adaptive Cruise Control of CAVs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10777569), **Min Hua**, D. Chen, K. Jiang, F. Zhang, B. Wang, Q. Zhou, H. Xu, *IEEE Transactions on Vehicular Technology*, 74(4):6076–6087, 2025.  
 - [Energy Management of Multi-Mode Plug-in Hybrid Electric Vehicle Using Multi-Agent Deep Reinforcement Learning](https://www.sciencedirect.com/science/article/pii/S0306261923008905), **Min Hua**, C. Zhang, F. Zhang, Z. Li, X. Yu, H. Xu, Q. Zhou, *Applied Energy*, 348:121526, 2023.  
-- [Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016811), **Min Hua**, D. Chen, X. Qi, K. Jiang, Z.E. Liu, Q. Zhou, H. Xu, *IEEE Transactions on Automation Science and Engineering*, 22:16266–16286, 2025.  
+- [Multi-Agent Reinforcement Learning for Connected and Automated Vehicles Control: Recent Advancements and Future Prospects](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11016811), **Min Hua**, D. Chen, X. Qi, K. Jiang, Z.E. Liu, Q. Zhou, H. Xu, *IEEE Transactions on Automation Science and Engineering*, 22:16266–16286, 2025. [Popular paper] (https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)
 - [Efficient Energy Management of Plug-in Hybrid Electric Vehicles through Ensemble with In-target Minimization Q-learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11036253), **Min Hua** et al., *IEEE Transactions on Transportation Electrification*, 11(5):11570–11581, 2025.  
 - [High Precision Data-Mechanism-Driven Lateral Velocity Estimation Using Transfer Learning in Distributed Vehicles](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11123912), G. Chen, **M. Hua***, *IEEE Transactions on Instrumentation & Measurement*, 2025.  
 - [Lane Change Trajectory Prediction Considering Driving Style Uncertainty for Autonomous Vehicles](https://www.sciencedirect.com/science/article/pii/S0888327023007628?casa_token=OnpNC6568dMAAAAA:JbZ70DPIlGkiJ9mQ14u7UgrQMig9xlzuNzd6MnIfTixOcbXrh5iydEWTITDZU8Xt5hzXRtG7ZME), **M. Hua*** et al., *Mechanical Systems and Signal Processing*, 206:110854, 2024.  
