@@ -20,7 +20,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I’m Dr. Min Hua, a Research Fellow at the University of Birmingham. My research focuses on AI-driven energy management, hybrid powertrain control, and intelligent vehicle systems, integrating reinforcement learning and generative AI to accelerate the transition toward sustainable and intelligent mobility.
+Hi there! I’m Dr. Min Hua, a Research Fellow at the University of Michigan. My research focuses on AI-driven autonomous and intelligent vehicle systems, with particular interests in reinforcement learning, large language models, world models, and planning, and intelligent decision-making. I also have extensive experience in energy management. My research aims to develop safe, adaptive, and data-driven AI methodologies for the next generation of intelligent and sustainable mobility.
 
 <!-- **Total Citations: <span id='total_cit'>77</span>** -->
 
